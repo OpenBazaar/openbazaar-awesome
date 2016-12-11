@@ -19,11 +19,13 @@ place to ask about it might be in our [Slack community](http://slack.openbazaar.
 - [Videos](#videos)
 - [Archives](#archives)
 - [Articles and Press](#articles-and-press)
-- [Discussions](#discussions)
 - [Contribute](#contribute)
   - [Want to hack on OpenBazaar?](#want-to-hack-on-openbazaar)
 - [License](#license)
 
+## Videos
+
+* [OpenBazaar: A Free and Open Marketplace for the Digital Age](https://www.youtube.com/watch?v=nuRgHbTU9pk) (YouTube)
 
 ### Want to hack on OpenBazaar?
 
