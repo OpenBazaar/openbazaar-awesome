@@ -10,3 +10,32 @@ are totally_ **awesome**. This is for products which are already awesome - if
 you have plans for cool stuff to do with OpenBazaar, you should build it, and then
 link it here. If you have an idea for an awesome thing to do with OpenBazaar, a good
 place to ask about it might be in our [Slack community](http://slack.openbazaar.org) or IRC.
+
+## Table of Contents
+
+- [Use Cases](#use-cases)
+- [Apps](#apps)
+- [Tools](#tools)
+- [Videos](#videos)
+- [Archives](#archives)
+- [Articles and Press](#articles-and-press)
+- [Discussions](#discussions)
+- [Contribute](#contribute)
+  - [Want to hack on OpenBazaar?](#want-to-hack-on-openbazaar)
+- [License](#license)
+
+
+### Want to hack on OpenBazaar?
+
+**OpenBazaar 1.0 (Current)**
+* [Desktop Application](https://github.com/OpenBazaar/OpenBazaar-Client)
+* [Server](https://github.com/OpenBazaar/OpenBazaar-Server)
+* [Installer](https://github.com/OpenBazaar/OpenBazaar-Installer)
+
+**OpenBazaar 2.0**
+* [Desktop Application](https://github.com/OpenBazaar/openbazaar-desktop)
+* [Server](https://github.com/OpenBazaar/openbazaar-go)
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
