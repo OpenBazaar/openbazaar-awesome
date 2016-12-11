@@ -31,6 +31,7 @@ place to ask about it might be in our [Slack community](http://slack.openbazaar.
 
 ## Tools
 * [openbazaar-etsy-import](https://github.com/hoffmabc/openbazaar-etsy-import) - Import listings from etsy into OpenBazaar 1.0
+* [deploy](https://github.com/OB1Company/deploy) - Deploy scripts for virtual hosting of OpenBazaar
 
 ## Videos
 
