@@ -9,4 +9,4 @@ _This list is for projects, tools, or pretty much any things related to OpenBaza
 are totally_ **awesome**_. This is for products which are already awesome - if
 you have plans for cool stuff to do with OpenBazaar, you should build it, and then
 link it here. If you have an idea for an awesome thing to do with OpenBazaar, a good
-place to ask about it might be in our [Slack community](http://slsack.openbazaar.org) or IRC.
+place to ask about it might be in our [Slack community](http://slack.openbazaar.org) or IRC.
