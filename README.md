@@ -23,6 +23,9 @@ place to ask about it might be in our [Slack community](http://slack.openbazaar.
   - [Want to hack on OpenBazaar?](#want-to-hack-on-openbazaar)
 - [License](#license)
 
+## Tools
+* [openbazaar-etsy-import](https://github.com/hoffmabc/openbazaar-etsy-import) - Import listings from etsy into OpenBazaar 1.0
+
 ## Videos
 
 * [OpenBazaar: A Free and Open Marketplace for the Digital Age](https://www.youtube.com/watch?v=nuRgHbTU9pk) (YouTube)
