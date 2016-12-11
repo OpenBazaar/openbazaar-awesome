@@ -13,11 +13,9 @@ place to ask about it might be in our [Slack community](http://slack.openbazaar.
 
 ## Table of Contents
 
-- [Use Cases](#use-cases)
 - [Apps](#apps)
 - [Tools](#tools)
 - [Videos](#videos)
-- [Archives](#archives)
 - [Articles and Press](#articles-and-press)
 - [Contribute](#contribute)
   - [Want to hack on OpenBazaar?](#want-to-hack-on-openbazaar)
@@ -32,6 +30,7 @@ place to ask about it might be in our [Slack community](http://slack.openbazaar.
 ## Tools
 * [openbazaar-etsy-import](https://github.com/hoffmabc/openbazaar-etsy-import) - Import listings from etsy into OpenBazaar 1.0
 * [deploy](https://github.com/OB1Company/deploy) - Deploy scripts for virtual hosting of OpenBazaar
+* [obarc](https://github.com/inertia186/obarc) - A simple OpenBazaar API client for Ruby
 
 ## Videos
 
