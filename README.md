@@ -16,6 +16,7 @@ place to ask about it might be in our [Slack community](http://slack.openbazaar.
 - [Apps](#apps)
 - [Tools](#tools)
 - [Videos](#videos)
+- [Documentation and Howtos](#docs)
 - [Articles and Press](#articles-and-press)
 - [Contribute](#contribute)
   - [Want to hack on OpenBazaar?](#want-to-hack-on-openbazaar)
@@ -36,6 +37,10 @@ place to ask about it might be in our [Slack community](http://slack.openbazaar.
 ## Videos
 
 * [OpenBazaar: A Free and Open Marketplace for the Digital Age](https://www.youtube.com/watch?v=nuRgHbTU9pk) (YouTube)
+
+## Documentation and Howtos
+* [OpenBazaar Docs](https://docs.openbazaar.org)
+* [Beginner's Guide to OpenBazaar](https://www.weusecoins.com/openbazaar-guide/)
 
 ### Want to hack on OpenBazaar?
 
