@@ -16,7 +16,7 @@ place to ask about it might be in our [Slack community](http://slack.openbazaar.
 - [Apps](#apps)
 - [Tools](#tools)
 - [Videos](#videos)
-- [Documentation and Howtos](#docs)
+- [Documentation and Howtos](#documentation-and-howtos)
 - [Articles and Press](#articles-and-press)
 - [Contribute](#contribute)
   - [Want to hack on OpenBazaar?](#want-to-hack-on-openbazaar)
