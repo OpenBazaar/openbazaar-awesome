@@ -23,6 +23,12 @@ place to ask about it might be in our [Slack community](http://slack.openbazaar.
   - [Want to hack on OpenBazaar?](#want-to-hack-on-openbazaar)
 - [License](#license)
 
+## Apps
+* [Duo Search](https://duosear.ch/) - Search engine for OpenBazaar
+* [Mubiz](http://mubiz.com/) - Search engine for OpenBazaar
+* [BazaarBay](http://bazaarbay.org) - Search engine for OpenBazaar
+* [Deploy](https://deploy.ob1.io) - Hosting for OpenBazaar by OB1
+
 ## Tools
 * [openbazaar-etsy-import](https://github.com/hoffmabc/openbazaar-etsy-import) - Import listings from etsy into OpenBazaar 1.0
 
